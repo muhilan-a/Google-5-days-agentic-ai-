@@ -1,0 +1,36 @@
+{
+  "summary": {
+    "total_employees": 290,
+    "average_tenure_years": 16.39,
+    "average_age": 47.3,
+    "total_departments": 16,
+    "gender_diversity_ratio": 40.78,
+    "high_risk_employees": 0,
+    "high_risk_percentage": 0.0
+  },
+  "by_department": {},
+  "by_gender": {
+    "M": 206,
+    "F": 84
+  },
+  "by_marital_status": {
+    "M": 146,
+    "S": 144
+  },
+  "tenure_distribution": {
+    "0-2 years": 0,
+    "2-5 years": 0,
+    "5-10 years": 0,
+    "10+ years": 290
+  },
+  "insights": [
+    "Total Employees: 290",
+    "Average Tenure: 16.4 years",
+    "Gender Diversity Ratio: 40.8%",
+    "High-Risk Employees: 0 (0.0%)",
+    "Average Age: 47.3 years"
+  ],
+  "recommendations": [
+    "HR metrics are healthy. Continue monitoring and maintain current practices."
+  ]
+}
